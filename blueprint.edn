@@ -1,6 +1,6 @@
 {:itonami.blueprint/id "cloud-itonami-isic-7820"
  :itonami.blueprint/name "Temporary employment agency activities — statutory-compliant dispatch staffing"
- :itonami.blueprint/isic-rev4 "7820"
+ :itonami.blueprint/isic-rev5 "7820"
  :itonami.blueprint/domain :labor/temporary-staffing
  :itonami.blueprint/license "AGPL-3.0-or-later"
  :itonami.blueprint/social-impact [:worker-protection :wage-floor-compliance :tenure-cap-compliance]
